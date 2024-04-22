@@ -1,0 +1,22 @@
+{
+  "name": "chore-check-backend",
+  "version": "1.0.0",
+  "description": "A chore tracker for any household.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michaelabudde/chore-check-backend.git"
+  },
+  "author": "Michaela Budde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelabudde/chore-check-backend/issues"
+  },
+  "homepage": "https://github.com/michaelabudde/chore-check-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
